@@ -1,10 +1,11 @@
-
-  <samp align="center">
-    <a href="https://bence.codes">website</a> .
-    <a href="https://twitter.com/bencetxt">twitter</a> .
-    <a href="https://instagram.com/bence.jpeg">instagram</a> .
-    <a href="https://www.linkedin.com/in/bencepdf/">linkedin</a>
+<p align="center">
+  <samp>
+    <a target="_blank" href="https://bence.codes">website</a> .
+    <a target="_blank" href="https://twitter.com/bencetxt">twitter</a> .
+    <a target="_blank" href="https://instagram.com/bence.jpeg">instagram</a> .
+    <a target="_blank" href="https://www.linkedin.com/in/bencepdf/">linkedin</a>
   </samp>
+</p>
 
 <!--
 **Beenyaa/Beenyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
