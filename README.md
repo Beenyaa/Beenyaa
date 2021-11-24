@@ -7,10 +7,6 @@
   </samp>
 </p>
 
-<div align="center">
-    <img src="README.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 <!--
 **Beenyaa/Beenyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
