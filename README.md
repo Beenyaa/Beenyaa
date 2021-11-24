@@ -1,9 +1,9 @@
-<p align="center">
+<p align="center" style="color:white">
   <samp>
-    <a href="https://bence.codes">me</a> .
-    <a href="https://twitter.com/bencetxt">tweets</a> .
-    <a href="https://instagram.com/bence.jpeg">instagram</a> .
-    <a href="https://www.linkedin.com/in/bencepdf/">linkedin</a>
+    <a href="https://bence.codes">bence.c</a> .
+    <a href="https://twitter.com/bencetxt">bence.txt</a> .
+    <a href="https://instagram.com/bence.jpeg">bence.jpeg</a> .
+    <a href="https://www.linkedin.com/in/bencepdf/">bence.pdf</a>
   </samp>
 </p>
 
